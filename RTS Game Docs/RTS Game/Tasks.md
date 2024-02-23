@@ -5,3 +5,4 @@ Tasks may include:
 Transporting [[Resources]] of any kind whether automatically or manually.
 Moving somewhere, waiting somewhere, or driving [[Vehicles]] 
 Gathering certain simple resources like water or pre-generated [[Food]] i.e. berries or something
+Unarmed [[Combat]]

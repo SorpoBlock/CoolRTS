@@ -1,0 +1,2 @@
+
+[[Citizens]] each have a stamina bar, it goes down while in [[Combat]], running, or manually transporting resources. Their [[Health]] and [[Strength]] will determine their maximum stamina. It will increase somewhat quickly over time so long as the citizen is resting. Citizens will automatically rest if they entirely run out of stamina, and may move slower or deal less damage while it is low. 

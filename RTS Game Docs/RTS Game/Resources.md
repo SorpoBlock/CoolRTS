@@ -6,7 +6,7 @@ Possible resources include:
 	* Stone - Creating structures, really early tools
 	* Clay - Creating bloomeries, retooling buildings to be homes (i.e. household goods)
 	* Copper - Common and earliest metal for tools, may be used later for electrical wires
-	* Tin - Rare and combined with copper for much better tools
+	* Tin - Rare and combined with copper for much better tools, used for bullets later
 	* Iron/Steel - Common ore but much harder to work with?
 	* Gold - Maybe used for trade? I doubt the gold standard would work in a video game lol unless there's a practical use for it
 	* Chormium or something for very late game steel 

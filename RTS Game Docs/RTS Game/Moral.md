@@ -8,6 +8,6 @@ Moral will decrease if:
 Moral increases slowly over time so long as nothing would cause it to decrease. [[Luxury Goods]] can speed up this increase.
 
 Moral affects:
-* Accuracy (ranged) or damage (melee) of combat
+* Accuracy (ranged) or damage (melee) of [[Combat]]
 * Unit speed
 * Units with no moral will not obey orders and may instead just go home or tend to other needs

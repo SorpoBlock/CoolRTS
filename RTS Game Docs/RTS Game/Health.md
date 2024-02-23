@@ -1,4 +1,4 @@
-Health goes down when a unit is [[Warmth|freezing]], [[Hunger|hungry]], or takes damage from combat.
+Health goes down when a unit is [[Warmth|freezing]], [[Hunger|hungry]], or takes damage from [[Combat]].
 There may be [[Disease]] outbreaks that can infect citizens and lower their health.
 Low health units lose [[Moral]] and negatively affect the moral of units near them.
 Low health decreases a unit's maximum [[Stamina]].

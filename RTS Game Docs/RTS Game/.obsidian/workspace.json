@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strength.md",
+                "file": "Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strength.md",
+                "file": "Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strength.md",
+                "file": "Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strength.md"
+                "file": "Tools.md"
               }
             }
           }
@@ -148,17 +148,22 @@
   },
   "active": "9378dfac8b10a8e5",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Experience.md",
+    "Tools.md",
+    "Combat.md",
+    "Moral.md",
+    "Clothing.md",
+    "Nationality.md",
+    "Policies.md",
     "RTS Game Summary.md",
     "Strength.md",
+    "Tasks.md",
+    "Stamina.md",
     "Resources.md",
-    "Policies.md",
-    "Nationality.md",
-    "Moral.md",
+    "Citizens.md",
+    "Building.md",
     "Luxury Goods.md",
     "Health.md",
-    "Experience.md",
-    "Citizens.md",
     "Formations.md",
     "live.md",
     "Vehicles.md",
@@ -169,12 +174,7 @@
     "Warmth.md",
     "Hunger.md",
     "Residence.md",
-    "Stamina.md",
-    "Survival.md",
-    "Tools.md",
     "Untitled",
-    "Units/Untitled.md",
-    "Units",
-    "maroon.md"
+    "Units"
   ]
 }

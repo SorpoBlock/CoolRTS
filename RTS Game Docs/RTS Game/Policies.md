@@ -1,4 +1,4 @@
-Similar to Cities Skylines, I imagine a tool where you can draw 'districts' on the map and name them. You can then set certain policies for each region.
+Similar to Cities Skylines, I imagine a tool where you can draw 'districts' on the [[Map]] and name them. You can then set certain policies for each region.
 
 Possible policies include:
 Encouraging / prohibiting / allowing intermarriage. (See: [[Birth]] and [[Nationality]])
