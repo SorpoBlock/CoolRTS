@@ -1,4 +1,6 @@
 
+Resources can be stored in people's [[Residence]] for family use, or you can use [[Policies]] to tell people where to stockpile public resources. 
+
 Possible resources include:
 * Wood - Firewood for homes, [[Building]] material, minor ingredient in early [[Tools]], charcoal
 * Coal / Charcoal - Mined or created for use in processing metal in early game, heating homes*

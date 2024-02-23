@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools.md",
+                "file": "Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools.md",
+                "file": "Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools.md"
+                "file": "Resources.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,22 +147,22 @@
   },
   "active": "9378dfac8b10a8e5",
   "lastOpenFiles": [
-    "Experience.md",
-    "Tools.md",
-    "Combat.md",
-    "Moral.md",
-    "Clothing.md",
-    "Nationality.md",
     "Policies.md",
-    "RTS Game Summary.md",
-    "Strength.md",
-    "Tasks.md",
-    "Stamina.md",
+    "Nationality.md",
     "Resources.md",
-    "Citizens.md",
+    "RTS Game Summary.md",
+    "Tasks.md",
     "Building.md",
-    "Luxury Goods.md",
     "Health.md",
+    "Clothing.md",
+    "Citizens.md",
+    "Combat.md",
+    "Tools.md",
+    "Experience.md",
+    "Moral.md",
+    "Strength.md",
+    "Stamina.md",
+    "Luxury Goods.md",
     "Formations.md",
     "live.md",
     "Vehicles.md",
