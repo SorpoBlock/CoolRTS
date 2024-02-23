@@ -1,6 +1,6 @@
 The foundation of your nation. Unlike normal RTS games you create military and resource gathering units simply by outfitting undifferentiated citizens with the [[Tools]] they need to do a certain job. 
 
-Citizens need basic necessities just to [[Survival|survive]], and in particularly harsh environments the early game may be battling just to survive the winter, to say nothing of combat with others. Citizens will take care of their survival needs automatically so long as the needed resources are available to them.
+Citizens need basic necessities just to [[Health|survive]], and in particularly harsh environments the early game may be battling just to survive the winter, to say nothing of combat with others. Citizens will take care of their survival needs automatically so long as the needed resources are available to them.
 
 Each citizen will have a few traits they are born with:
 [[Nationality]]

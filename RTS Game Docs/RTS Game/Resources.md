@@ -19,6 +19,6 @@ Possible resources include:
 	* Spices can be grown or found in certain rare regions
 * Ammunition 
 * Gunpowder - Possibly made from (char)coal, sulfur and saltpeter which must be mined, may be dangerous to store
-* Other intermediate products i.e bricks
+* Other intermediate products i.e bricks, medical supplies
 * Clothing and tools would be stored as resources
 * Water? Could just be envisioned as a utility
