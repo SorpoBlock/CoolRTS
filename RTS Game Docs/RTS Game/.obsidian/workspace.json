@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "d85ffec49a267cf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "de6f42f3d0da9da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9378dfac8b10a8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RTS Game Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "204f644a49d2e5b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffeb40b35ac20e12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53457d4a89b17eef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac6f4cd087d7dea4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21f5fce2a6ae5b71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1cd05c6a6416571",
+    "type": "split",
+    "children": [
+      {
+        "id": "76df2af9e94e5980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43370572cf572f6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RTS Game Summary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbb9dede416b1f2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RTS Game Summary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b10dd51a7324da5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92bdf7bbed05f916",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RTS Game Summary.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9378dfac8b10a8e5",
+  "lastOpenFiles": [
+    "Citizens.md",
+    "RTS Game Summary.md",
+    "live.md",
+    "Vehicles.md",
+    "Resources.md",
+    "Jobs.md",
+    "Job.md",
+    "Birth.md",
+    "Immigration.md",
+    "Warmth.md",
+    "Hunger.md",
+    "Residence.md",
+    "Moral.md",
+    "Experience.md",
+    "Health.md",
+    "Stamina.md",
+    "Strength.md",
+    "Nationality.md",
+    "Tasks.md",
+    "Survival.md",
+    "Tools.md",
+    "Untitled",
+    "Units/Untitled.md",
+    "Units",
+    "maroon.md",
+    "Hello.md",
+    "gun.md"
+  ]
+}
